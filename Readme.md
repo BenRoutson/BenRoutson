@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Full-stack Web Developer</h1>
+<h1 align="center">Senior Ruby/React Developer</h1>
 
 ###
 <p align="center">
@@ -9,17 +9,10 @@
 </p>
 
 ---
-### Full-stack software developer with extensive experience of 8 years. I have a strong grasp of programming fundamentals, I'm passionate about problem-solving, system design, and eager to learn more. 
-#### ⚙️ Languages:
-#### Ruby, Python, C/C++, Java, SQL, HTML/HTML5, CSS/CSS3/SCSS, Javascript (ES6)
-#### ⚙️ Libraries/ Frameworks:
-#### Ruby on Rails, Django, React, Vue, Angular, Node, Express, Node, jQuery, Bootstrap
-#### ⚙️ Database:
-#### MySQL, PostgreSQL, MongoDB
-#### ⚙️ Cloud Platform:
-#### Amazon Web Service, Google Cloud Platform, Azure
-#### ⚙️ Tools:
-#### NPM, Git/Github, Postman, Redis, Nginx, Docker, PM2
+### Senior web developer with 8+ years of experience in React, Ruby.
+####   Senior web developer with a passion for building creative, responsive, web applications. Experience in building robust web applications using Ruby on Rails/PostgreSQL or MongoDB/Node/Express on the backend, and React and Redux on the frontend. Recently I created a pixel-perfect clone of Spotify, complete with a custom Postgres database, user authentication, playlist CRUD, live search, and seamless playback (link below).
+####   Had a passion for computers and mathematics since I was a small child, it was a natural next step for me to study physics/computer science during my time in university. An internship involving creating a website sparked my interest in web development and took the steps on a lifelong journey of learning new technologies and honing my skills as a developer.
+####   Also, experience in database analysis, identifying and solving complex support issues. Skills in team-building, organization, analysis, and research, and management.
 
 ---
 ### Status
